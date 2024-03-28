@@ -6,5 +6,6 @@ executavel feito usando a biblioteca auto py to exe:
 https://pypi.org/project/auto-py-to-exe/
 
 COMO USAR:
-coloca o arquivo csv junto com o executável
+Baixe o arquivo "exec.zip" e extraia
+coloca o arquivo csv junto (na mesma pasta) com o executável
 recomendo um nome simples, porque o programa pede o nome do arquivo logo no ínicio.
